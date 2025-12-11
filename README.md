@@ -120,6 +120,8 @@ LivingArchive-Kage/
 └── requirements_flask.txt
 ```
 
+![flow graph agent](https://github.com/CharlesMcGowen/LivingArchive-Kage/blob/master/images/agent_flow_graph.jpg)
+
 **Deprecated/Removed:**
 - `kumo/`, `suzu/`, `ryu/`, `kaze/` directories (moved to @trash/)
 - Learning/heuristics functionality
